@@ -1,6 +1,5 @@
 package com.java.practicecode;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class StudentCatalouge {
