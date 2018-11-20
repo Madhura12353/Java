@@ -33,7 +33,10 @@ public class ArrayAddNewCountries {
 		}
 		
 	}
-
+/***
+ * 
+ * this method returns the array of countries.
+ */
 		private static String[] getCountryNames() {
 			String [] countryNames = {"Mexico","Russia","USA","Russia","Mexico",
 					                   "USA","Germany", "Mexico", "Canada","China" };
